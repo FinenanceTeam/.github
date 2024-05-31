@@ -1,3 +1,5 @@
+![BannerFront_Finenance](https://github.com/FinenanceTeam/.github/assets/37214301/596fc9f8-2232-48a6-85d4-3f99c9fb920c)
+
 # Finenance
 ### Turn your personal finance into finenance.
 
